@@ -33,3 +33,7 @@ These markers are special kinds of markers which have unique ID values assigned 
 There are differenttypes of barcode markers based on the way the detection information has
 been stored in the form of matrix. The most popular are 3X3 and 4X4 matrix code type barcode
 markers
+
+
+The periodic table shows the elements with their chemical symbol and
+properties like their mass and number of electrons in the tabular structure
