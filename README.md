@@ -28,3 +28,8 @@ we are going to make atomic structures of some elements in Augmented reality.
 We are going to make a marker based application again but we are going to use the different kinds of
 markers that are called barcode markers.
 These markers are special kinds of markers which have unique ID values assigned to them starting with 0.
+
+
+There are differenttypes of barcode markers based on the way the detection information has
+been stored in the form of matrix. The most popular are 3X3 and 4X4 matrix code type barcode
+markers
